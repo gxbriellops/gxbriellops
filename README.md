@@ -10,4 +10,4 @@ Minhas redes sociais 👇 <br><br>
 ## Sobre mim
 Estudante de Ciência da Computação pela faculdade Cruzeiro do Sul Virtual, especializado em Business Intelligence e Advanced Analytics.
 
-Apaixonado por dados, produtividade, saúde e filosofia. Estou trilhando meu caminho para me tornar um cientista de dados, integrando conceitos como Machine Learning e análise de dados com minha curiosidade por entender o mundo e as pessoas.
+Apaixonado por dados, produtividade e saúde. Estou trilhando meu caminho para me tornar um cientista de dados, integrando conceitos como Machine Learning e análise de dados com minha curiosidade por entender o mundo.
