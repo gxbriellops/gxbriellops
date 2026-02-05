@@ -5,9 +5,11 @@ Minhas redes sociais 👇 <br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gxbriellops)
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxbriellops&show_icons=true&theme=transparent)
-
 ## Sobre mim
-Estudante de Ciência da Computação pela faculdade Cruzeiro do Sul Virtual, especializado em Business Intelligence e Advanced Analytics.
+Estudante de Ciência da Computação na Cruzeiro do Sul Virtual.
 
-Apaixonado por dados, produtividade e saúde. Estou trilhando meu caminho para me tornar um cientista de dados, integrando conceitos como Machine Learning e análise de dados com minha curiosidade por entender o mundo.
+Tenho uma inclinação natural por organização, sistemas e clareza. Gosto de reduzir complexidade, estruturar processos e transformar ideias soltas em algo que funcione de verdade, mesmo que imperfeito no início.
+
+Uso programação como meio para construir ferramentas úteis, automatizar decisões e dar forma a pensamentos.
+
+Valorizo conscienciosidade e pensamento crítico.
